@@ -1,4 +1,4 @@
-# ITU ACM 2018 - iOS Programming Study Group
+# ITU ACM 2018 - Data Structures Lecture
 
 ### Instructor
 
