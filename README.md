@@ -1,4 +1,4 @@
-# ITU ACM 2018 - iOS Programming Study Group
+# ITU ACM 2018 - Data Structures Lecture
 
 ### Instructor
 
@@ -8,7 +8,7 @@
 
 [*LinkedIn*](https://www.linkedin.com/in/sadık-ekin-özbay/)
 
-### Prerequisities
+### Prerequisites
 
 1. Very basic knowledge about any programming language(C++ is preferred).
 
