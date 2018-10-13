@@ -13,11 +13,11 @@
 1. Very basic knowledge about any programming language(C++ is preferred).
 
 ### Goal
-This course has several aims. One of the aims is helping the enrollment students about the Data Structurecures course, that is given by the Istanbul Technical University. The second aim of this course is preparing the students about their possible interviews.
+This course has several aims. One of the aims is helping the enrolled students about the data structures course, that is given by the Istanbul Technical University. The second aim of this course is preparing the students about their possible interviews.
 
-The stable understanding of data structures is essential for every computer engineering student. Therefore, we as ITU ACM Student Branch Members decided to open this kind of lectures to help Istanbul Technical University students.
+A stable understanding of data structures is essential for every computer engineering student. Therefore, we as ITU ACM Student Branch members decided to open this kind of lectures to help Istanbul Technical University students.
 
-The third and maybe the most important aim of this course is helping the competitive programming community. Data structures class is crucial for competitive programming.  
+The third and maybe the most important aim of this course is helping the competitive programming community. Data structures knowledge is fundamental for competitive programming questions. 
 
 
 
