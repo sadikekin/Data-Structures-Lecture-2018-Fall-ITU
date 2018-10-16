@@ -28,8 +28,8 @@ The third and maybe the most important aim of this course is helping the competi
 | Week 1 (11/10/18)  | Dynamic Memory |
 | Week 2 (18/10/18)  | Linked List 1 - Singular |
 | Week 3 (25/10/18)  | Linked List 2 - Double, Circular |
-| Week 4 (01/11/18)  | Mid-Break (Holiday)                                          |
-| Week 5 (08/11/18)  | Stack, Queue and their applications |
+| Week 4 (01/11/18)  | Stack, Queue and their applications                                   |
+| Week 5 (08/11/18)  | Mid-Break (Holiday)  |
 | Week 6 (15/11/18)  | Recursive programming - Contest-1 |
 | Week 7 (22/11/18)  | Min-heap, Max-heap |
 | Week 8 (29/11/18)  | Graph - Contest-2 |
