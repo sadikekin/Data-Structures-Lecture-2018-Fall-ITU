@@ -6,7 +6,9 @@
 | Passing Structs to Functions | 
 | Writing Functions Inside Structs|
 | Linked List |
+| Reverse a Link List(example)|
 | Merging Two Linked Lists(example) | 
+
 
 
 | Discussions |
