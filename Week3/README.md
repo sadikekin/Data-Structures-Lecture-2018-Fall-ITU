@@ -4,7 +4,7 @@
 | :----------------- |
 | Double Linked List | 
 | Circular Linked List | 
-| Check Circular |
-| Fibonacci in Linked List |
+| Check Circular (example) |
+| Fibonacci in Linked List (example) |
 
 
