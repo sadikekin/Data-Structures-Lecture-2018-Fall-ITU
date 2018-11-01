@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <cstring> // memcpy
 using namespace std;
 
 int currentSize = 0;
@@ -11,19 +11,12 @@ void push(int val){
     
     currentSize++;
     if(currentSize >= currentCapacity){
-        // Saving the values in the array
-        int *tempArr = new int[currentCapacity];
-        for(int i=0;i<currentSize;i++) tempArr[i] = arr[i];
+        currentCapacity *= 2; // Increase the capacity
+        int *newArr = new int[currentCapacity]; // Allocate new dynamic array
+        memcpy(newArr, arr, sizeof(int) * currentSize); // Copy old values to new array
         
-        // Incrementing array's size
-        delete[] arr;
-        currentCapacity *= 2;
-        arr = new int[currentCapacity];
-        
-        // Restoring the array.
-        for(int i=0;i<currentSize;i++) arr[i] = tempArr[i];
-        
-        delete[] tempArr;
+        delete[] arr; // Delete old array
+        arr = newArr; // Change the pointer
     }
 }
 
@@ -38,8 +31,10 @@ int main() {
     push(1);
     push(10);
     
-    for(int i=0;i<currentSize;i++) cout << arr[i] << endl;
-    cout << "Current size is " << currentSize << " Current capasity is " << currentCapacity << endl;
+    for(int i=0;i<currentSize;i++) {
+      cout << arr[i] << endl;
+    }
+    cout << "Current size is " << currentSize << " Current capacity is " << currentCapacity << endl;
     return 0;
 }
 
