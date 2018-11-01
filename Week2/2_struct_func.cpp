@@ -10,8 +10,8 @@ struct Student{
   // A struct can have functions too. (Not in C language)
   void printStudent();
   void enterScores();
-  void init_student(string name,long number);
-  void add_scores(int p1,int p2,int p3);
+  void init_student(string , long);
+  void add_scores(int, int, int);
 };
 
 // Function of a Student struct. 'Student::' is added to that purpose.
