@@ -36,4 +36,4 @@ The third and maybe the most important aim of this course is helping the competi
 | Week 9 (06/12/18)  | Tree - BST(Binary Search Tree) |
 | Week 10 (13/12/18) | Final Contest  |
 
-<p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
+<p align="center"><b>Lessons will be around 1.5 - 2 hours</b></p>
