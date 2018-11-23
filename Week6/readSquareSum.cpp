@@ -1,6 +1,11 @@
 #include <iostream>
 
 using namespace std;
+// 2
+// 3
+// -1 -4 5  => 25
+// 4
+// 4 6 3 -10  => 61 (16 + 36 + 9)
 
 int readBlockNums(int n){
     if(n == 0) return 0;
