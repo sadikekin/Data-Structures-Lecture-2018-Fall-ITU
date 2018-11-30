@@ -31,8 +31,8 @@ The third and maybe the most important aim of this course is helping the competi
 | Week 4 (01/11/18)  | Stack, Queue and their applications                                   |
 | Week 5 (08/11/18)  | Mid-Break (Holiday)  |
 | Week 6 (15/11/18)  | Recursive programming - Contest-1 |
-| Week 7 (22/11/18)  | Min-heap, Max-heap |
-| Week 8 (29/11/18)  | Graph - Contest-2 |
+| Week 7 (22/11/18)  | Graph |
+| Week 8 (29/11/18)  | Min-heap, Max-heap - Contest-2 |
 | Week 9 (06/12/18)  | Tree - BST(Binary Search Tree) |
 | Week 10 (13/12/18) | Final Contest  |
 
