@@ -33,7 +33,7 @@ The third and maybe the most important aim of this course is helping the competi
 | Week 6 (15/11/18)  | Recursive programming - Contest-1 |
 | Week 7 (22/11/18)  | Graph |
 | Week 8 (29/11/18)  | Tree - BST(Binary Search Tree)  - Contest-2 |
-| Week 9 (06/12/18)  | Min-heap, Max-heap |
+| Week 9 (06/12/18)  | STL |
 | Week 10 (13/12/18) | Final Contest  |
 
 <p align="center"><b>Lessons will be around 1.5 - 2 hours</b></p>
